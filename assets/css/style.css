@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Raleway', sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+   }
+#altoraro-img{
+    max-height: 208px;
+}
+#nav{
+    color:white !important;
+}
